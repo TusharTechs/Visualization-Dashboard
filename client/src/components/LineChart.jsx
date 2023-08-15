@@ -10,7 +10,7 @@ const LineChart = ({ isCustomLineColors = false, isDashboard = false }) => {
 
   useEffect(() => {
     // Fetch data from backend API
-    fetch("http://localhost:5000/api/data")
+    fetch("https://visualization-dashboard-sesb.onrender.com/api/data")
       .then((response) => response.json())
       .then((data) => {
         setFetchedData(data);
