@@ -107,7 +107,7 @@ const Team = () => {
 
   useEffect(() => {
     // Fetch data from /api/data
-    fetch("http://localhost:5000/api/data")
+    fetch("https://visualization-dashboard-sesb.onrender.com/api/data")
       .then((response) => response.json())
       .then((data) => {
         const filteredData = data.filter(
