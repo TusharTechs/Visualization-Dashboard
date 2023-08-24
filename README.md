@@ -18,6 +18,26 @@ Welcome to the Visualization Dashboard! This dashboard provides a user-friendly 
 
 ## Screenshots
 
+### Dashboard
+
+![Screenshot_33](https://github.com/TusharTechs/Visualization-Dashboard/assets/56952465/1b4cc60e-011b-4b91-9a62-20f8ffb50424)
+
+### Data Analytics
+
+![Screenshot_34](https://github.com/TusharTechs/Visualization-Dashboard/assets/56952465/e7a7115a-acd0-44f1-9f32-aed76b7af096)
+
+### Insights Information
+
+![Screenshot_35](https://github.com/TusharTechs/Visualization-Dashboard/assets/56952465/238b095b-6960-4d00-8d5d-0a8b6362eab6)
+
+### Pie Chart
+
+![Screenshot_36](https://github.com/TusharTechs/Visualization-Dashboard/assets/56952465/6376ac26-1a3a-4ae3-b14e-27aae56fcd3c)
+
+### Line Chart
+
+![Screenshot_37](https://github.com/TusharTechs/Visualization-Dashboard/assets/56952465/ba59955a-7380-4adc-af38-40d3bddf3d23)
+
 
 ## Getting Started
 
@@ -61,3 +81,16 @@ Follow these instructions to get the project up and running on your local machin
 
 - Frontend: React, Charting libraries (for charts), CSS (for styling).
 - Backend: Node.js, Express.js, MongoDB (for database).
+
+## Contributing
+
+Contributions to this project are welcomed and encouraged. If you encounter any bugs, have suggestions for improvements, or want to add new features, please submit issues or pull requests through GitHub.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Thank you for choosing **Visualization Dashboard** and we hope you had a great experience. If you have any questions or need further assistance, please don't hesitate to contact us at tusharaggarwal274@gmail.com. We hope you find our application both helpful and user-friendly!
+
