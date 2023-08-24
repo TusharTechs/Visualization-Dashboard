@@ -16,6 +16,10 @@ Welcome to the Visualization Dashboard! This dashboard provides a user-friendly 
 
 - **Navigation:** Use the sidebar to easily navigate between different pages and visualization types.
 
+## Deployed Link
+
+[Visualization-Dashboard](https://visualization-dashboard-brown.vercel.app/)
+
 ## Screenshots
 
 ### Dashboard
